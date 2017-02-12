@@ -1,0 +1,9 @@
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\bin\Release\cyberheart.exe.config
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\bin\Release\cyberheart.exe
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\bin\Release\cyberheart.pdb
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\obj\Release\cyberheart.Form1.resources
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\obj\Release\cyberheart.Properties.Resources.resources
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\obj\Release\cyberheart.csproj.GenerateResource.Cache
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\obj\Release\cyberheart.exe
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\obj\Release\cyberheart.pdb
+C:\Users\Eugene\Documents\repository\csharp_heart\cyberheart\obj\Release\cyberheart.csprojResolveAssemblyReference.cache
